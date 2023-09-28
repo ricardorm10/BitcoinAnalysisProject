@@ -9,14 +9,9 @@ The Bitcoin price data used in this analysis was obtained from Kaggle and is sto
 ## Data Cleaning
 To ensure data accuracy and reliability, we performed the following data cleaning steps:
 
-### 1. Dropping Duplicates: 
-Any duplicate rows in the dataset were removed to prevent data duplication.
-
-### 2. Handling Null Values:
-Any rows with missing values were either dropped or filled using appropriate methods, depending on the nature and extent of missing data.
-
-### 3. Data Type Conversion:
-We ensured that data types were appropriate for analysis. For example, dates were converted to datetime objects for time series analysis.
+1. **Dropping Duplicates:** Any duplicate rows in the dataset were removed to prevent data duplication.
+2. **Handling Null Values:** Any rows with missing values were either dropped or filled using appropriate methods, depending on the nature and extent of missing data.
+3. **Data Type Conversion:** We ensured that data types were appropriate for analysis. For example, dates were converted to datetime objects for time series analysis.
 
 ## Visualizations
 ### 1. Line Charts
@@ -36,9 +31,9 @@ We conducted an in-depth analysis of Bitcoin's closing price with the following 
 
 ### 4. Temporal Analysis of Closing Price
 We analyzed the closing price of Bitcoin over different temporalities:
-* __Yearly Analysis:__ A line chart depicting the closing price trends on a yearly basis.
-* __Quarterly Analysis:__ A line chart illustrating the closing price trends on a quarterly basis.
-* __Monthly Analysis:__ A line chart showing the closing price trends on a monthly basis.
+- **Yearly Analysis:** A line chart depicting the closing price trends on a yearly basis.
+- **Quarterly Analysis:** A line chart illustrating the closing price trends on a quarterly basis.
+- **Monthly Analysis:** A line chart showing the closing price trends on a monthly basis.
 
 ## Conclusion
 This project provides a comprehensive analysis of Bitcoin price data, allowing you to gain insights into historical trends and patterns. Feel free to explore the provided code and visualizations to better understand Bitcoin's price movements over time. You can also extend this analysis by incorporating additional features or datasets for a more comprehensive study.
