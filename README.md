@@ -9,15 +9,19 @@ The Bitcoin price data used in this analysis was obtained from Kaggle and is sto
 ## Data Cleaning
 To ensure data accuracy and reliability, we performed the following data cleaning steps:
 
-**1. Dropping Duplicates:** Any duplicate rows in the dataset were removed to prevent data duplication.
+### 1. Dropping Duplicates: 
+Any duplicate rows in the dataset were removed to prevent data duplication.
 
-**2. Handling Null Values:** Any rows with missing values were either dropped or filled using appropriate methods, depending on the nature and extent of missing data.
+### 2. Handling Null Values:
+Any rows with missing values were either dropped or filled using appropriate methods, depending on the nature and extent of missing data.
 
-**3. Data Type Conversion:** We ensured that data types were appropriate for analysis. For example, dates were converted to datetime objects for time series analysis.
+### 3. Data Type Conversion:
+We ensured that data types were appropriate for analysis. For example, dates were converted to datetime objects for time series analysis.
 
 ## Visualizations
 ### 1. Line Charts
 We created line charts to visualize the historical trends of the following Bitcoin price metrics:
+
 -Open Price
 -High Price
 -Low Price
