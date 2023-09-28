@@ -31,8 +31,8 @@ A candlestick chart was generated to provide a visual representation of Bitcoin'
 
 ### 3. In-Depth Analysis of Closing Price
 We conducted an in-depth analysis of Bitcoin's closing price with the following visualizations:
-* __Line Chart (No Scaling):__ A line chart showing the closing price of Bitcoin over time without any scaling.
-* __Line Chart (Logarithmic Scale):__ A line chart displaying the closing price with a logarithmic scale, which helps highlight percentage changes more effectively.
+- **Line Chart (No Scaling):** A line chart showing the closing price of Bitcoin over time without any scaling.
+- **Line Chart (Logarithmic Scale):** A line chart displaying the closing price with a logarithmic scale, which helps highlight percentage changes more effectively.
 
 ### 4. Temporal Analysis of Closing Price
 We analyzed the closing price of Bitcoin over different temporalities:
