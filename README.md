@@ -22,10 +22,10 @@ We ensured that data types were appropriate for analysis. For example, dates wer
 ### 1. Line Charts
 We created line charts to visualize the historical trends of the following Bitcoin price metrics:
 
-*Open Price
-*High Price
-*Low Price
-*Close Price
+Open Price
+High Price
+Low Price
+Close Price
 
 ### 2. Candlestick Chart
 A candlestick chart was generated to provide a visual representation of Bitcoin's historical price movement, displaying open, high, low, and close prices.
